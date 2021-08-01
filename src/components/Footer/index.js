@@ -16,19 +16,19 @@ function Footer() {
             <div>
                 <a href="https://github.com/ciyer87" target="_blank" rel="noreferrer">
                     {/* <FontAwesomeIcon icon={["fab", "git-square"]} size="3x" color="#607d8b" /> */}
-                    <i class="fab fa-git-square" size="3x" color="#607d8b"></i>
+                    <i className="fab fa-git-square" size="3x" color="#607d8b"></i>
                 </a>
             </div>
             <div>
                 <a href="https://www.linkedin.com/in/chitra-padmanabhan-2404812/" target="_blank" rel="noreferrer">
                     {/* <FontAwesomeIcon icon={["fab", "linkedin"]} size="3x" color="#607d8b" /> */}
-                    <i class="fab fa-linkedin"></i>
+                    <i className="fab fa-linkedin"></i>
                 </a>
             </div>
             <div>
                 <a href="https://stackoverflow.com/users/16558724/chitra" target="_blank" rel="noreferrer">
                     {/* <FontAwesomeIcon icon={["fab", "stack-overflow"]} size="3x" color="#607d8b" /> */}
-                    <i class="fab fa-stack-overflow"></i>
+                    <i className="fab fa-stack-overflow"></i>
                 </a>
             </div>
         </footer>
