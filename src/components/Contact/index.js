@@ -9,7 +9,7 @@ function About() {
                     <img className="pic" src={require(`../../assets/images/chitra.jpg`).default} alt="Russ Tracy" />
                 </div>
                 <div className="text">
-                    <h2 className="mAll">Contact me</h2>
+                    <div className="title">Contact me</div>
                     <div className="mAll">
                         <a href="mailto:chitra.iyer00@gmail.com">
                             <FontAwesomeIcon icon={["fas", "envelope-square"]} size="1x" color="#607d8b" />

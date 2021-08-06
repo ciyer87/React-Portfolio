@@ -7,7 +7,7 @@ function Nav(props) {
     return (
         <header>
             <h2>
-                <a href="/">
+                <a id="nav-link" href="/">
                  Chitra Padmanabhan
                 </a>
             </h2>
@@ -16,7 +16,7 @@ function Nav(props) {
                     {tabs.map(tab => (
 
                         <li key={tab}>
-                            <a
+                            <a id="nav-link"
                                 href={'#' + tab.toLowerCase()}
                                 onClick={() => props.handlePageChange(tab)}
                                 className={

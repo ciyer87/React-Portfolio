@@ -7,7 +7,7 @@ function Portfolio() {
             image: 'goodvice_blog.png',
             alt: 'goodvice blog',
             title: 'goodvice blog',
-            description: 'A blog site to get input from audience',
+            description: 'A blog site to chat',
             code: '(Express.js/Node.js/MySQL2/CSS)',
             url: 'https://the-goodvice-blog.herokuapp.com/',
             git: 'https://github.com/crossigarcia/the-goodvice-blog'
@@ -16,7 +16,7 @@ function Portfolio() {
             image: 'password.png',
             alt: 'password generator',
             title: 'password generator',
-            description: 'An app to generate random password',
+            description: 'generate random password',
             code: '(HTML/CSS/JS)',
             url: 'https://ciyer87.github.io/password-generator/',
             git: 'https://github.com/ciyer87/password-generator/'
@@ -25,7 +25,7 @@ function Portfolio() {
             image: 'weather.png',
             alt: 'Weather Vane',
             title: 'weather dashboard',
-            description: 'An app to view the current and 5 day weather forecast based on the city entered by user',
+            description: 'current and 5 day weather forecast',
             code: '(OpenWeather API/HTML/CSS)',
             url: 'https://ciyer87.github.io/Weather-Dashboard/',
             git: 'https://github.com/ciyer87/Weather-Dashboard/'
@@ -34,7 +34,7 @@ function Portfolio() {
             image: 'todo_color_variation.png',
             alt: 'notetaker app',
             title: 'notetaker app',
-            description: 'An app to keep track of to-do list',
+            description: 'To-Do list app',
             code: '(jQuery/Moment.js/Bootstrap)',
             url: 'https://safe-crag-82447.herokuapp.com/',
             git: 'https://github.com/ciyer87/note-taker'
@@ -43,7 +43,7 @@ function Portfolio() {
             image: 'javascript-quiz.png',
             alt: 'quiz',
             title: 'javascript quiz',
-            description: 'An online multiple choice quiz app',
+            description: 'multiple choice quiz app',
             code: '(HTML/CSS/JavaScript/WebAPI)',
             url: 'https://ciyer87.github.io/Javascript-Quiz/',
             git: 'https://github.com/ciyer87/Javascript-Quiz'
@@ -60,12 +60,12 @@ function Portfolio() {
     ])
     return (
        <div className="container">
-            <h2 className="title">Portfolio</h2>
+             <div className="title">Portfolio</div>
                 <div className="main">
                     {projects.map((project, i) =>
                         <div className="picture" key={i}>
                             <img src={require(`../../assets/images/${project.image}`).default} alt={project.alt} />
-                                <div className="overlay">
+                                 <div className="overlay"> 
                                     <div className="overlaytext">
                                         <h3>{project.title}</h3>
                                         <p>{project.description}<br /><span>{project.code}</span></p>
@@ -77,9 +77,9 @@ function Portfolio() {
                                     </div>    
                                 </div>    
 
-                           
+                           </div>
                     
-                        </div>  
+                        // </div>  
                     )}       
                 </div>
         </div>
