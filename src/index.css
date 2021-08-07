@@ -491,6 +491,11 @@ textarea {
 	header nav ul li a, footer, footer a {
 		font-size: 16px;
   }
+  header {
+		justify-content: center;
+    position: relative;
+    display: block;
+	}
 
 }
 
@@ -519,6 +524,11 @@ textarea {
 		margin: 20px 0 10px 0;
 		width: 100%;
 		justify-content: space-around;
+  }
+  header {
+		justify-content: center;
+    position: relative;
+    display: block;
 	}
 
 }
