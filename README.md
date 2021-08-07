@@ -1,3 +1,21 @@
+# React Portfolio
+
+This is a single page web application built with React that I build to showcase my web projects.
+
+# Usage
+
+Deployed site - 
+
+# Screenshots
+
+![porfolio-home](src/assets/images/portfolio-home.png)
+![portfolio-projects](src/assets/images/portfolio-projects.png)
+
+# Questions
+[Contact me](chitra.iyer00@gmail.com)
+
+[GitHub](https://github.com/ciyer87)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
