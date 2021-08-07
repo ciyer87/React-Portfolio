@@ -477,6 +477,23 @@ textarea {
 	}
 }
 
+@media screen and (max-width: 977px) {
+
+  header h1 {
+		width: 100%;
+		text-align: center;
+	}
+	header nav ul {
+		margin: 20px 0 10px 0;
+		width: 100%;
+		justify-content: space-around;
+	}
+	header nav ul li a, footer, footer a {
+		font-size: 16px;
+  }
+
+}
+
 @media screen and (max-width: 844px) {
   #nav-link {
     padding: 0px;
