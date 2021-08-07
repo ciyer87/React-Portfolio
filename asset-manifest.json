@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.6f883581.chunk.css",
+    "main.css": "/React-Portfolio/static/css/main.15a1a5c2.chunk.css",
     "main.js": "/React-Portfolio/static/js/main.f97059d9.chunk.js",
     "main.js.map": "/React-Portfolio/static/js/main.f97059d9.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.a5cea089.js",
@@ -10,7 +10,7 @@
     "static/js/3.ae0992e1.chunk.js": "/React-Portfolio/static/js/3.ae0992e1.chunk.js",
     "static/js/3.ae0992e1.chunk.js.map": "/React-Portfolio/static/js/3.ae0992e1.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.6f883581.chunk.css.map": "/React-Portfolio/static/css/main.6f883581.chunk.css.map",
+    "static/css/main.15a1a5c2.chunk.css.map": "/React-Portfolio/static/css/main.15a1a5c2.chunk.css.map",
     "static/js/2.a48ed6ae.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.a48ed6ae.chunk.js.LICENSE.txt",
     "static/media/ChitraResume.pdf": "/React-Portfolio/static/media/ChitraResume.ba5b64e1.pdf",
     "static/media/chitra.jpg": "/React-Portfolio/static/media/chitra.cbdb53bf.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5cea089.js",
     "static/js/2.a48ed6ae.chunk.js",
-    "static/css/main.6f883581.chunk.css",
+    "static/css/main.15a1a5c2.chunk.css",
     "static/js/main.f97059d9.chunk.js"
   ]
 }
