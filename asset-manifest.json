@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ciyer87/React-Portfolio/static/css/main.3f9ded8f.chunk.css",
+    "main.js": "/ciyer87/React-Portfolio/static/js/main.b58f0e8c.chunk.js",
+    "main.js.map": "/ciyer87/React-Portfolio/static/js/main.b58f0e8c.chunk.js.map",
+    "runtime-main.js": "/ciyer87/React-Portfolio/static/js/runtime-main.74ade1e7.js",
+    "runtime-main.js.map": "/ciyer87/React-Portfolio/static/js/runtime-main.74ade1e7.js.map",
+    "static/js/2.a48ed6ae.chunk.js": "/ciyer87/React-Portfolio/static/js/2.a48ed6ae.chunk.js",
+    "static/js/2.a48ed6ae.chunk.js.map": "/ciyer87/React-Portfolio/static/js/2.a48ed6ae.chunk.js.map",
+    "static/js/3.a13ab0cc.chunk.js": "/ciyer87/React-Portfolio/static/js/3.a13ab0cc.chunk.js",
+    "static/js/3.a13ab0cc.chunk.js.map": "/ciyer87/React-Portfolio/static/js/3.a13ab0cc.chunk.js.map",
+    "index.html": "/ciyer87/React-Portfolio/index.html",
+    "static/css/main.3f9ded8f.chunk.css.map": "/ciyer87/React-Portfolio/static/css/main.3f9ded8f.chunk.css.map",
+    "static/js/2.a48ed6ae.chunk.js.LICENSE.txt": "/ciyer87/React-Portfolio/static/js/2.a48ed6ae.chunk.js.LICENSE.txt",
+    "static/media/ChitraResume.pdf": "/ciyer87/React-Portfolio/static/media/ChitraResume.ba5b64e1.pdf",
+    "static/media/chitra.jpg": "/ciyer87/React-Portfolio/static/media/chitra.cbdb53bf.jpg",
+    "static/media/goodvice_blog.png": "/ciyer87/React-Portfolio/static/media/goodvice_blog.9a18c92b.png",
+    "static/media/group-project-1.png": "/ciyer87/React-Portfolio/static/media/group-project-1.bd464d19.png",
+    "static/media/javascript-quiz.png": "/ciyer87/React-Portfolio/static/media/javascript-quiz.da808e32.png",
+    "static/media/password-generator.png": "/ciyer87/React-Portfolio/static/media/password-generator.90bab593.png",
+    "static/media/password.png": "/ciyer87/React-Portfolio/static/media/password.7b6a33d0.png",
+    "static/media/run-buddy.png": "/ciyer87/React-Portfolio/static/media/run-buddy.d631ea7a.png",
+    "static/media/todo_color_variation.png": "/ciyer87/React-Portfolio/static/media/todo_color_variation.ffea4a1f.png",
+    "static/media/weather.png": "/ciyer87/React-Portfolio/static/media/weather.e29926c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74ade1e7.js",
+    "static/js/2.a48ed6ae.chunk.js",
+    "static/css/main.3f9ded8f.chunk.css",
+    "static/js/main.b58f0e8c.chunk.js"
+  ]
+}
