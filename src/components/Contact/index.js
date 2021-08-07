@@ -10,7 +10,10 @@ function About() {
                 </div>
                 <div className="text">
                     <div className="title">Contact me</div>
-                    <div className="mAll">
+
+                    <a href="https://github.com/ciyer87" target="_blank" rel="noreferrer"><i className="fab fa-git-square" size="3x" color="#607d8b"></i></a>
+                    <a href="https://www.linkedin.com/in/chitra-padmanabhan-2404812/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin"></i></a>
+                    {/* <div className="mAll">
                         <a href="mailto:chitra.iyer00@gmail.com">
                             <FontAwesomeIcon icon={["fas", "envelope-square"]} size="1x" color="#607d8b" />
                         </a> <a href="mailto:chitra.iyer00@gmail.com">chitra.iyer00@gmail.com</a>
@@ -19,9 +22,9 @@ function About() {
                         <div>
                             <FontAwesomeIcon icon={["fas", "mobile-alt"]} size="1x" color="#607d8b" /> (650)-346-1836
 
-                        </div>
+                        </div> */}
 
-                    </div>
+                    {/* </div> */}
 
                 </div>
             </div>

@@ -34,34 +34,38 @@ function ContactForm() {
   };
 
   return (
-    <section>
-      <h1 data-testid="h1tag">Contact</h1>
-      <form id="contact-form" onSubmit={handleSubmit}>
-        <div>
-          <label htmlFor="name">Name: </label>
-          <p></p>
-          <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
-        </div>
-        <div>
-          <label htmlFor="email">Email address:</label>
-          <p></p>
-          {'\n'}
-          <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
-        </div>
-        <div>
-          <label htmlFor="message">Message:</label>
-          <p></p>
-          {'\n'}
-          <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
-          {'\n'}
-        </div>
-        {errorMessage && (
+    <section className="container">
+      <div className="title">Contact</div>
+      <div className="about">
+        <form id="contact-form" onSubmit={handleSubmit}>
           <div>
-            <p className="error-text">{errorMessage}</p>
+            <label htmlFor="name">Name: </label>
+            <p></p>
+            <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
           </div>
-        )}
-        <button data-testid="button" type="submit">Submit</button>
-      </form>
+          <div>
+            <p></p>
+            <label htmlFor="email">Email address:</label>
+            <p></p>
+            {'\n'}
+            <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
+          </div>
+          <div>
+            <p></p>
+            <label htmlFor="message">Message:</label>
+            <p></p>
+            {'\n'}
+            <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+            {'\n'}
+          </div>
+          {errorMessage && (
+            <div>
+              <p className="error-text">{errorMessage}</p>
+            </div>
+          )}
+          <button data-testid="button" type="submit">Submit</button>
+        </form>
+      </div>
     </section>
   );
 }

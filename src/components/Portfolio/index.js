@@ -6,8 +6,8 @@ function Portfolio() {
         {
             image: 'goodvice_blog.png',
             alt: 'goodvice blog',
-            title: 'goodvice blog',
-            description: 'A blog site to chat',
+            title: 'Goodvice Blog',
+            description: 'Chat Blog',
             code: '(Express.js/Node.js/MySQL2/CSS)',
             url: 'https://the-goodvice-blog.herokuapp.com/',
             git: 'https://github.com/crossigarcia/the-goodvice-blog'
@@ -15,7 +15,7 @@ function Portfolio() {
         {
             image: 'password.png',
             alt: 'password generator',
-            title: 'password generator',
+            title: 'Password Generator',
             description: 'generate random password',
             code: '(HTML/CSS/JS)',
             url: 'https://ciyer87.github.io/password-generator/',
@@ -24,16 +24,16 @@ function Portfolio() {
         {
             image: 'weather.png',
             alt: 'Weather Vane',
-            title: 'weather dashboard',
+            title: 'Weather Dashboard',
             description: 'current and 5 day weather forecast',
-            code: '(OpenWeather API/HTML/CSS)',
+            code: '(API/HTML/CSS)',
             url: 'https://ciyer87.github.io/Weather-Dashboard/',
             git: 'https://github.com/ciyer87/Weather-Dashboard/'
         },
         {
             image: 'todo_color_variation.png',
             alt: 'notetaker app',
-            title: 'notetaker app',
+            title: 'Notetaker',
             description: 'To-Do list app',
             code: '(jQuery/Moment.js/Bootstrap)',
             url: 'https://safe-crag-82447.herokuapp.com/',
@@ -42,18 +42,18 @@ function Portfolio() {
         {
             image: 'javascript-quiz.png',
             alt: 'quiz',
-            title: 'javascript quiz',
+            title: 'JS Quiz',
             description: 'multiple choice quiz app',
-            code: '(HTML/CSS/JavaScript/WebAPI)',
+            code: '(HTML/CSS/JavaScript/API)',
             url: 'https://ciyer87.github.io/Javascript-Quiz/',
             git: 'https://github.com/ciyer87/Javascript-Quiz'
         },
         {
             image: 'group-project-1.png',
-            alt: 'recipe app',
-            title: 'recipe app',
-            description: 'An recipe app that allows users to search based on ingredients or category',
-            code: '(HTML/CSS/JQuery/UIKit/3rd party API)',
+            alt: 'Recipe App',
+            title: 'Recipe App',
+            description: 'recipe app',
+            code: '(HTML/CSS/JQuery/API)',
             url: 'https://nicopetelo.github.io/whats-for-dinner/',
             git: 'https://github.com/nicopetelo/whats-for-dinner'
         }

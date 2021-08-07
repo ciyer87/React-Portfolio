@@ -3,11 +3,12 @@ import React from 'react';
 function About() {
     return (
         <section className="container">
-            <h2 className="mAll">Resume</h2>
+            <div className="title">Portfolio</div>
             <div className="mLeftRight">Download my <a href={require(`../../assets/downloads/ChitraResume.pdf`).default}>Resume</a></div>
             <div className="resume">
                 <div className="mAll">
-                    <h3>Front-end Skills</h3>
+                    {/* <h3>Front-end Skills</h3> */}
+                    <div className="title">Front-end Skills</div>
                     <ul className="skillsList">
                         <li>HTML</li>
                         <li>CSS</li>
@@ -22,7 +23,8 @@ function About() {
                     </ul>
                 </div>
                 <div className="mAll">
-                    <h3>Back-end Skills</h3>
+                    {/* <h3>Back-end Skills</h3> */}
+                    <div className="title">Back-end Skills</div>
                     <ul className="skillsList">
                         <li>API's</li>
                         <li>Node</li>
@@ -36,7 +38,8 @@ function About() {
                     </ul>
                 </div>
                 <div className="mAll">
-                    <h3>Applications</h3>
+                    {/* <h3>Applications</h3> */}
+                    <div className="title">Applications</div>
                     <ul className="skillsList">
                         <li>Github</li>
                         <li>GitHub Pages</li>
