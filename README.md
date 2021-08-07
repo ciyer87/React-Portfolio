@@ -4,7 +4,7 @@ This is a single page web application built with React that I build to showcase 
 
 # Usage
 
-Deployed site - 
+Deployed site - https://ciyer87.github.io/React-Portfolio/
 
 # Screenshots
 
