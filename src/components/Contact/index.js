@@ -20,7 +20,7 @@ function About() {
                     </div>
                     <div className="mAll">
                         <div>
-                            <FontAwesomeIcon icon={["fas", "mobile-alt"]} size="1x" color="#607d8b" /> (650)-346-1836
+                            <FontAwesomeIcon icon={["fas", "mobile-alt"]} size="1x" color="#607d8b" /> (800)-000-1000
 
                         </div> */}
 
