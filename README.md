@@ -8,8 +8,8 @@ Deployed site -
 
 # Screenshots
 
-![porfolio-home](src/images/portfolio-home.png)
-![portfolio-projects](images/portfolio-projects.png)
+![porfolio-home](src/assets/images/portfolio-home.png)
+![portfolio-projects](src/assets/images/portfolio-projects.png)
 
 # Questions
 [Contact me](chitra.iyer00@gmail.com)
