@@ -13,13 +13,13 @@ function Portfolio() {
             git: 'https://github.com/crossigarcia/the-goodvice-blog'
         },
         {
-            image: 'password.png',
-            alt: 'password generator',
-            title: 'Password Generator',
-            description: 'generate random password',
-            code: '(HTML/CSS/JS)',
-            url: 'https://ciyer87.github.io/password-generator/',
-            git: 'https://github.com/ciyer87/password-generator/'
+            image: 'kara-ok-corral.png',
+            alt: 'karaoke site',
+            title: 'Kara-ok-corral',
+            description: 'Create karaoke list for your next party',
+            code: '(MERN Stack)',
+            url: 'https://the-kara-ok-corral.herokuapp.com/ ',
+            git: 'https://github.com/costanza13/kara-ok-corral'
         },
         {
             image: 'weather.png',
