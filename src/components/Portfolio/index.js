@@ -13,7 +13,7 @@ function Portfolio() {
             git: 'https://github.com/crossigarcia/the-goodvice-blog'
         },
         {
-            image: 'kara-ok-corral.png',
+            image: 'kara-ok-corral-screenshot.png',
             alt: 'karaoke site',
             title: 'Kara-ok-corral',
             description: 'Create karaoke list for your next party',
